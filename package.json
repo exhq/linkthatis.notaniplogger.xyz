@@ -1,0 +1,17 @@
+{
+  "name": "linkthatis.notaniplogger.xyz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/main.js"
+  },
+  "keywords": [
+    "cock"
+  ],
+  "author": "exhq",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
